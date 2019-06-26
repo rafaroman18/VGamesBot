@@ -5,7 +5,7 @@ const info = require('./info')
 const newdaily = require('./newdaily')
 
 
-const bot = new Telegraf("841194137:AAEfwSI2U9nDDPZdx91H7q7io9l3OuAGzI8")
+const bot = new Telegraf("11111111111aaaaaaaaaa222222222222bbbbbbb") // API Key of the Telegram Bot VGamesBot (private)
 dailyNEW = "https://www.hobbyconsolas.com/"
 
 // Habilitamos la función commandArgs

@@ -3,7 +3,7 @@ const adminDAILY = require('./adminDAILY')
 const newdaily = (ctx,dailyNEW) => {
     
 
-if(ctx.chat.id==299947428)
+if(ctx.chat.id==00000000) //Chat id of the admin 
 {
     if(ctx.command.args.length==1)
     {

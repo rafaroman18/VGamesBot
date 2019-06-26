@@ -2,7 +2,7 @@ const request = require('request')
 
 const adminDAILY = (ctx,dailyNEW) => {
   
-  if(ctx.chat.id == 299947428){ //ID de RafaRoman(ADMIN)
+  if(ctx.chat.id == 0000000){ //ID of the ADMIN
     
     request.get(
     'http://127.0.0.1:8081/daily',
