@@ -1,0 +1,17 @@
+{
+  "name": "vgamesbot",
+  "version": "1.0.0",
+  "description": "A Telegram Bot about Videogames",
+  "main": "VGamesBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Roman Aguilar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "request": "^2.88.0",
+    "telegraf": "^3.27.1",
+    "telegram": "^0.2.0"
+  }
+}
