@@ -9,7 +9,7 @@
   "author": "Rafael Roman Aguilar",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "request": "^2.88.0",
     "telegraf": "^3.27.1",
     "telegram": "^0.2.0"
